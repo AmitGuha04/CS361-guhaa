@@ -39,5 +39,8 @@ The first line sends over three strings to the backend. You will need to use the
                                                                                                                                                 based on which section you are implementing).
 The second line is how you will recieve the correct response back from the backend. By printing the response on the third line, we will see exactly what the code was doing and what it achieved.
 
+Besides this, while my frontend gives good structure on how to implement some of the code, feel free to implement however you feel fit and let me know if you have questions.
 
-
+Resources:
+https://canvas.oregonstate.edu/courses/1976570/files/106434079?wrap=1
+https://www.geeksforgeeks.org/hashing-passwords-in-python-with-bcrypt/
